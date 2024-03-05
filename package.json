@@ -1,0 +1,19 @@
+{
+  "name": "scan-to-know",
+  "version": "1.0.0",
+  "description": "An app to search for the ingredients in a food product.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Jobin,Sherin Joji",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-useragent": "^1.0.15",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.0.0"
+  }
+}
